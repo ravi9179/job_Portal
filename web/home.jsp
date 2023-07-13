@@ -116,12 +116,12 @@
                                                        class="btn btn-sm bg-success text-white">View More</a>
                                                 </div>
                                 </div>
-                            </div>
+                            
                             
                         <%  } %>
+                        </div>
                     
                 </div>
-            </div>
-        
+            </div>  
     </body>
 </html>

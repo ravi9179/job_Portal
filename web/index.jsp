@@ -10,8 +10,8 @@
         <style type="text/css">
             
          .back-img{
-    background: url("img/19873.jpg");
-    width: 70%;
+    background: url("img/index1.jpg");
+    width: 80%;
     height: 80vh;
     background-repeat: no-repeat;
     background-size: cover;

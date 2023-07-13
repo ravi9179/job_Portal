@@ -14,9 +14,9 @@
          <%@include file="all_css.jsp" %> 
          <style type="text/css">
              .back-img{
-                 background: url("img/admin.jpg");
-                 width: 50%;
-                 height: 70vh;
+                 background: url("img/Multitasking_2.jpg");
+                 width: 70%;
+                 height:100vh;
                  background-repeat: no-repeat;
                  background-size: cover;
                     
